@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SofianeBraneci
-- 👀 I’m interested in Web Dev, Software, Machine Learning and more
+- 👀 I’m interested in Web Dev, Software engineering, Machine Learning and more
 - 🌱 I’m currently learning Java EE, Elasticsearch, Springboot, React and much more ...
 
 
